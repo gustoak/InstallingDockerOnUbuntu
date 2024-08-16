@@ -11,4 +11,9 @@ First, update your package list to ensure you're installing the latest available
 ```bash
 sudo apt update
 sudo apt upgrade
+```
+### 2. Install necessary dependencies
+Install the necessary packages to allow the addition of a new HTTPS repository:
 
+```bash
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
