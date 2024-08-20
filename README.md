@@ -1,4 +1,3 @@
-# Installing Docker on Ubuntu
 
 # Docker Installation Guide on Ubuntu
 
